@@ -1,6 +1,6 @@
 # Database of users and their respective passwords and names.
 users = ["admin", "user1", "user2"]
-names = ["Administrator", "User #1", "User #2"
+names = ["Administrator", "User #1", "User #2"]
 passwords = ["123", "456", "789"]
 
 # Introduction to the program and asks the user to log in.
