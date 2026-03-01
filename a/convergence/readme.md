@@ -20,5 +20,5 @@ Write a `run` method that follows the steps of Ulam's hypothesis, as described a
 <br><br>
 Sample output for `integer1 = 3`: **10 5 16 8 4 2 1**
 <br><br>
-**Precondition:** `integer1` is an integer greater than 0.
+**Precondition:** `integer1` is an integer greater than 0.<br>
 **Postcondition:** Prints all of the numbers on one line.
