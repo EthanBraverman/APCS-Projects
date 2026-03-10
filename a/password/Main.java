@@ -9,7 +9,7 @@ public class MyProgram extends ConsoleProgram
     public boolean passwordRuleCheck(String userPass)
     {
         String digits = "0123456789";
-        String specialCharacters = "@ % #";
+        String specialCharacters = "@%#";
         
         int digitsCounter = 0;
         int specialCharCounter = 0;
