@@ -11,7 +11,7 @@ The table below lists some sample code segments and their results.
 | `sam.getRoom();` | 5 | sam's current room is 5. |
 | `sam.nextRoom();` |  | sam is moved to the next room (room 6). |
 | `sam.getRoom();` | 6 | sam's current room is 6. |
-| `Student fran = new Student(4);` |  | fran will begin in room 3. |
+| `Student fran = new Student(3);` |  | fran will begin in room 3. |
 | `sam.nextRoom();` |  | sam is moved to the next room (room 1). |
 | `sam.getRoom();` | 1 | sam's current room is 1. |
 | `fran.getRoom();` | 3 | fran's current room is still 1. |
